@@ -146,14 +146,17 @@ self.addEventListener('fetch', function(event) {
   Router.watch(event);
 });
 ```
+## 中文文档
+
+[sw-router][3]
 
 ## Feedback
 
-If you have any problem, you can contact with me by [issue][3].
+If you have any problem, you can contact with me by [issue][4].
 
 ## Author
 
-[villainhr][4]
+[villainhr][5]
 
 
 ## License
@@ -163,5 +166,6 @@ ISC
 
   [1]: https://img.shields.io/badge/npm-sw--router-brightgreen.svg
   [2]: https://www.npmjs.com/package/sw-router
-  [3]: https://github.com/JimmyVV/sw-router/issues
-  [4]: https://www.villainhr.com/
+  [3]: https://github.com/JimmyVV/sw-router/blob/master/doc/README.md
+  [4]: https://github.com/JimmyVV/sw-router/issues
+  [5]: https://www.villainhr.com/
